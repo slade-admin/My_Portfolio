@@ -1,24 +1,24 @@
-👋 Hi, I'm Godwell Slade
+👋 Hi, I'm Faisal Shahzaman
 
 Welcome to my personal portfolio!  
-I'm a Comp-Sci student passionate about building scalable solutions, clean code, and creative problem-solving.
+I'm a Computer Science student passionate about building web applications, clean code, and creative problem-solving.
 
 🚀 About Me
-- 🌱 Currently learning: systems administration, Responsive Interface Development, and Distributed Systems.
-- 💼 Experienced in: Linux and Windows server environments, database management, and development of secure, data-driven applications.
+- 🌱 Currently learning: Full-stack web development, React, and modern JavaScript frameworks.
+- 💼 Experienced in: Building web applications, database management, and developing clean, user-focused interfaces.
 - 🎯 Goal: To create impactful projects that blend technical precision with user-focused design
-- ⚡ Fun fact: I enjoy swimming when I'm not coding
+- ⚡ Fun fact: I enjoy exploring new technologies when I'm not coding
 
 🛠️ Tech Stack
-- Languages: Python, JavaScript, C, HTML/CSS
-- Frameworks & Tools: Tkinter, React (basics),  Node.js, Django 
-- Other Skills: Systems Administration, Problem Solving, Team Collaboration, Technical Writing
-- Tools: Git & GitHub, Cisco Packet Tracer
+- Languages: Python, JavaScript, HTML/CSS, SQL
+- Frameworks & Tools: React, Node.js, Tailwind CSS, Git & GitHub
+- Other Skills: Web Development, Problem Solving, Team Collaboration, Technical Writing
 
  📫 Contact Me
-- Email: godwellkut@gmail.com
-- LinkedIn: https://github.com/slade-admin
-- Portfolio Website: https://my-portfolio-beta-eosin-56.vercel.app/ or https://my-portfolio-96su63v4x-isabeasts-projects.vercel.app/  
+- Email: faisalshahzaman@gmail.com
+- LinkedIn: https://www.linkedin.com/in/faisal-shahzaman/
+- GitHub: https://github.com/faisalshahzaman
+- Portfolio Website: https://faisalshahzaman.vercel.app/
 
  📝 License
 This portfolio and its projects are not licensed.
